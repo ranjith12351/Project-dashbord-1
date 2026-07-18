@@ -12,7 +12,7 @@ Built entirely within **Microsoft Excel**, the project follows a complete data a
 ## 📊 Dashboard Preview
 Below is the interface of the final interactive dashboard:
 
-![Sales Dashboard 2026](Screenshot%202026-07-18%20121951.png)
+![Sales Dashboard 2026]("C:\Users\RANJITH\Pictures\Screenshots\dashbord1.png")
 
 ## 🗂️ Core Dashboard Features & Interactivity
 The dashboard allows end-users and stakeholders to slice data interactively through multiple dimensions:
